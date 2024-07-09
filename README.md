@@ -1,22 +1,16 @@
-Analysis
-The analysis includes the following steps:
-
-1.Data Cleaning: Handling missing values, data types, and formatting.
-2.Exploratory Data Analysis (EDA): Visualizing sales trends, customer demographics, and product performance.
-3.Statistical Analysis: Identifying significant factors affecting sales.
-
 # Diwali Sales Analysis
 
 ## Overview
 This project analyzes Diwali sales data to identify key trends and insights, including sales increase during the Diwali season, top-performing product categories, and customer demographics.
 
-## Usage
-1. Clone the repository:
-   ```sh
-   git clone https://github.com/Ayush00778/Diwali-Sales-Analysis.git
-2. Run the Jupyter Notebook:
-jupyter notebook
+## Analysis
+The analysis includes the following steps:
+1.Data Cleaning: Handling missing values, data types, and formatting.
+2.Exploratory Data Analysis (EDA): Visualizing sales trends, customer demographics, and product performance.
+3.Statistical Analysis: Identifying significant factors affecting sales.
+
 Key Insights :
+
 1.Significant sales increase during Diwali season.
 2.Top-performing product categories such as Auto.
 3.Customer demographics aged 26-35 and in Healthcare sector show higher purchase rates.
